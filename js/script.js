@@ -24,7 +24,7 @@ paragraph4.textContent = `Telefon raqami: ${telNumber}`;
 document.body.appendChild(paragraph4);
 
 var paragraph5  = document.createElement("p");
-paragraph5.textContent = `Email: @${email}`;
+paragraph5.textContent = `Email: ${email}`;
 document.body.appendChild(paragraph5);
 
 var paragraph6  = document.createElement("p");
